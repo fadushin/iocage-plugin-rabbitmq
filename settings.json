@@ -1,0 +1,4 @@
+{
+	"servicerestart":"service rabbitmq restart",
+	"options": {}
+}
